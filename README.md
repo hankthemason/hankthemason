@@ -4,7 +4,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 
 - 📓  Currently studying: PostgreSQL, user authentication in React
 - 👽  Interested in: JavaScript, React, TypeScript, D3, Web Development, Generative/Algorithmic music
-- ✋  Looking for work as a **Full-Stack or Front-end developer**
+- ✋  Looking for work as a **Full-Stack or Front-End Developer**
 
 **Here are some things I've built**
 
