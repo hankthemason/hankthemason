@@ -10,7 +10,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 
 👮  [knowyourcops.com](https://knowyourcops.com) ([source](https://github.com/hankthemason/knowyourcops.nyc)) - An interactive database of thousands of civilian complaints filed against the NYPD from 1985 - 2019, featuring interactive maps, charts, and graphs that visualize the data and break it down by individual officers and precincts. Uses React, D3, Node.js, and SQlite.
 
-📙  [pynchoname.com](https://pynchoname.com) ([source])(https://github.com/hankthemason/pynchon-name-generator) - A TypeScript/React app that generates a name and character description in the style of author Thomas Pynchon based on a user’s input.
+📙  [pynchoname.com](https://pynchoname.com) ([source](https://github.com/hankthemason/pynchon-name-generator)) - A TypeScript/React app that generates a name and character description in the style of author Thomas Pynchon based on a user’s input.
 
 💵  [finances-tracker](https://github.com/hankthemason/finances-tracker)(**work-in-progress**)  - A full-stack web app that allows a user to create a profile and customize the way that they track income and expenses. Uses Typescript, React, Node.js, and PostgreSQL.
 
