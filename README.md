@@ -12,7 +12,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 
 📙  [pynchoname.com](https://pynchoname.com) - A TypeScript/React app that generates a name and character description in the style of author Thomas Pynchon based on a user’s input.
 
-💵  (work-in-progress) [finances-tracker](https://github.com/hankthemason/finances-tracker) - A full-stack web app that allows a user to create a profile and customize the way that they track income and expenses. Uses Typescript, React, Node.js, and PostgreSQL.
+💵  [finances-tracker](https://github.com/hankthemason/finances-tracker)(work-in-progress)  - A full-stack web app that allows a user to create a profile and customize the way that they track income and expenses. Uses Typescript, React, Node.js, and PostgreSQL.
 
 
 
