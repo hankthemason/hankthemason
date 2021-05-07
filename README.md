@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer who started out coding by developing my own audio and MIDI-editing software, which led to learning JavaScript, which led to developing web apps, which led to...well, you know how it goes.  I recently finished a batch at [Recurse Center](https://www.recurse.com), where I focused on improving my skills in React.js, learning Typescript, and studying algorithms/data structures by paring with other Recursers.  
 
-- 📓  Currently studying: PostgreSQL, user authentication in React
+- 📓  Currently studying: PostgreSQL, Jest, react-testing-library
 - 👽  Interested in: JavaScript, React, TypeScript, D3, Web Development, Generative/Algorithmic music
 - ✋  Looking for work as a **Full-Stack or Front-End Developer**
 
