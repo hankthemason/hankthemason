@@ -15,8 +15,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 💵  [finances-tracker](https://github.com/hankthemason/finances-tracker)(**work-in-progress**)  - A full-stack web app that allows a user to create a profile and customize the way that they track income and expenses. Uses Typescript, React, Node.js, and PostgreSQL.
 
 **Here are some things I've written**
-
-Build a map of NYC’s police precincts with React & D3: [Part 1] (https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-1-ae4b433def5c) [Part 2] (https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-2-f02620395bf5)
+Build a map of NYC’s police precincts with React & D3: [Part 1](https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-1-ae4b433def5c) [Part 2](https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-2-f02620395bf5)
 
 :mailbox: **Reach me** at [hankthemason@gmail.com]
 
