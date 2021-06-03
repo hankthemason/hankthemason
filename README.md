@@ -17,6 +17,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 **Here are some things I've written**
 
 Build a map of NYC’s police precincts with React & D3: [Part 1](https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-1-ae4b433def5c), [Part 2](https://hankthemason.medium.com/build-a-map-of-nycs-police-precincts-with-react-d3-part-2-f02620395bf5)
+[Create a custom legend with chart.js and React](https://hankthemason.medium.com/using-chart-jss-legendcallback-and-generatelegend-with-react-hooks-4eb8a9f5ea4d)
 
 :mailbox: **Reach me** at [hankthemason@gmail.com]
 
