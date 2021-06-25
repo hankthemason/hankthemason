@@ -14,7 +14,7 @@ I'm a self-taught programmer who started out coding by developing my own audio a
 
 📙  [pynchoname.com](https://pynchoname.com) ([source](https://github.com/hankthemason/pynchon-name-generator)) - A TypeScript/React app that generates a name and character description in the style of author Thomas Pynchon based on a user’s input.
 
-:computer:[blogr landing page mockup](https://hankthemason.github.io/https://hankthemason.github.io/blogr-landing-page-main/)([source](https://github.com/hankthemason/blogr-landing-page-main)) - A responsive web layout mockup made entirely with HTML/CSS/Javascript. All of the elements (dropdowns, mobile menus, etc.) are built from scratch. I focused on using flexbox and mobile-first design principles, along with some animations for hover events.
+:computer: [blogr landing page mockup](https://hankthemason.github.io/https://hankthemason.github.io/blogr-landing-page-main/)([source](https://github.com/hankthemason/blogr-landing-page-main)) - A responsive web layout mockup made entirely with HTML/CSS/Javascript. All of the elements (dropdowns, mobile menus, etc.) are built from scratch. I focused on using flexbox and mobile-first design principles, along with some animations for hover events.
 
 **Here are some things I've written**
 
